@@ -1,0 +1,15 @@
+Cod abonament: 1
+Nume: a
+Prenume: a
+Pachet: BAZA+
+Serviciu internet: DA
+Cost pachet: 2.52
+
+
+Cod abonament: 2
+Nume: dd
+Prenume: dd
+Pachet: BAZA
+Serviciu internet: NU
+Cost pachet: 0.7
+
